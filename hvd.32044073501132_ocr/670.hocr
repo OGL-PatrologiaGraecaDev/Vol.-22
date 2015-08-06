@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/22/hvd.32044073501132/670.png"; bbox 0 0 1975 3109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1206 248 1713 286">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1206 248 1713 286">
+     <span class='ocr_line' id='line_1_1' title="bbox 1206 248 1713 286; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 1206 249 1231 286; x_wconf 83' lang='grc'>3</span> <span class='ocrx_word' id='word_1_2' title='bbox 1264 249 1373 286; x_wconf 89' lang='lat'>2044</span> <span class='ocrx_word' id='word_1_3' title='bbox 1405 249 1486 286; x_wconf 88' lang='grc'>073</span> <span class='ocrx_word' id='word_1_4' title='bbox 1519 248 1592 286; x_wconf 92' lang='lat'>501</span> <span class='ocrx_word' id='word_1_5' title='bbox 1635 248 1713 285; x_wconf 85' lang='lat'>132</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 612 2375 998 2446">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 612 2375 998 2446">
+     <span class='ocr_line' id='line_1_2' title="bbox 612 2375 998 2446; baseline -0.018 -5"><span class='ocrx_word' id='word_1_6' title='bbox 612 2375 694 2441; x_wconf 30' lang='lat'><em>‘3&#39;”)</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 711 2399 805 2446; x_wconf 74' lang='lat' dir='ltr'>nus</span> <span class='ocrx_word' id='word_1_8' title='bbox 829 2389 998 2441; x_wconf 89' lang='lat' dir='ltr'>VOLUME</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 630 2449 1094 2575">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 630 2449 1086 2573">
+     <span class='ocr_line' id='line_1_3' title="bbox 630 2449 1086 2573; baseline -0.004 -27"><span class='ocrx_word' id='word_1_9' title='bbox 630 2469 735 2573; x_wconf 51' lang='lat'>2.09</span> <span class='ocrx_word' id='word_1_10' title='bbox 751 2449 1086 2565; x_wconf 55' lang='lat' dir='ltr'>mmw</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 11 2814 1975 3109">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 11 2814 1975 3109">
+     <span class='ocr_line' id='line_1_4' title="bbox 11 2814 1975 3109; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 11 2863 1604 3109; x_wconf 67' lang='lat'>_-_</span> <span class='ocrx_word' id='word_1_12' title='bbox 1725 2814 1975 3109; x_wconf 64' lang='lat' dir='ltr'>ﬂ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
